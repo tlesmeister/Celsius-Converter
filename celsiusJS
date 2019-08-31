@@ -8,7 +8,7 @@ HTML Code
                 </p>
                 <!-- Textbox for user input -->
                 <div>
-                    <input type="number" class="form-control" id="tbConvertCelsius" placeholder="Convert Celsius to Fahrenheit" />
+                    <input type="number" class="form-control" id="tbConvertCelsius" placeholder="Celsius to Fahrenheit" />
                 </div>
                 <div>
                     <input type="button" class="btn btn-warning" value="Calculate Degrees" onclick="displayCalcTemp()" />
